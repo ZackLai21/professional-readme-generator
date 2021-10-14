@@ -1,5 +1,5 @@
 
-  # Amazing App
+  # Amazing app
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
@@ -12,10 +12,12 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  npm init
+  ~~~
+  npm i
+  ~~~
   ## Usage
   ~~~
-  NA
+  npm init
   ~~~
   ## License
   
@@ -23,7 +25,7 @@
   
   
   ## Contribute
-  NA
+  N/A
   ## Tests
   ~~~
   npm run test
