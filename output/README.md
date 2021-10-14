@@ -1,9 +1,9 @@
 
-  # amazing app
-  [![License Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  # Amazing App
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  amazing
+  it's amazing
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -12,21 +12,21 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  NA
+  npm init
   ## Usage
   ~~~
   NA
   ~~~
   ## License
   
-  [[License Apache 2.0]](https://opensource.org/licenses/Apache-2.0)
+  [[License: MIT]](https://opensource.org/licenses/MIT)
   
   
   ## Contribute
   NA
   ## Tests
   ~~~
-  NA
+  npm run test
   ~~~
 
   ## Questions
